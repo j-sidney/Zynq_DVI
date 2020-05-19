@@ -1,0 +1,26 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto fb7df1923c754016841501d9103c1a51 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xlconstant_v1_1_6 -L util_vector_logic_v2_0_1 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot DVI_wrapper_behav xil_defaultlib.DVI_wrapper xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-3180] cannot find port 'sys_clock' on this module [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.srcs/sources_1/bd/DVI/hdl/DVI_wrapper.v:63]
+ERROR: [VRFC 10-3180] cannot find port 'data_out_to_pins_p_0' on this module [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.srcs/sources_1/bd/DVI/hdl/DVI_wrapper.v:59]
+ERROR: [VRFC 10-3180] cannot find port 'data_out_to_pins_n_0' on this module [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.srcs/sources_1/bd/DVI/hdl/DVI_wrapper.v:58]
+ERROR: [VRFC 10-3180] cannot find port 'OBUF_DS_P_0' on this module [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.srcs/sources_1/bd/DVI/hdl/DVI_wrapper.v:54]
+ERROR: [VRFC 10-3180] cannot find port 'OBUF_DS_N_0' on this module [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.srcs/sources_1/bd/DVI/hdl/DVI_wrapper.v:53]
+ERROR: [VRFC 10-3180] cannot find port 'HDMI_Out' on this module [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.srcs/sources_1/bd/DVI/hdl/DVI_wrapper.v:52]
+ERROR: [VRFC 10-2063] Module <DVI_OBUFDS_TMDS_CH1_0> not found while processing module instance <OBUFDS_TMDS_CH0> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:151]
+ERROR: [VRFC 10-2063] Module <DVI_OBUFDS_TMDS_CH2_0> not found while processing module instance <OBUFDS_TMDS_CH1> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:155]
+ERROR: [VRFC 10-2063] Module <DVI_OBUFDS_TMDS_CLK_0> not found while processing module instance <OBUFDS_TMDS_CH2> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:159]
+ERROR: [VRFC 10-2063] Module <DVI_util_ds_buf_2_0> not found while processing module instance <OBUFDS_TMDS_CLK> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:163]
+ERROR: [VRFC 10-2063] Module <DVI_TMDS_encoder_1_0> not found while processing module instance <TMDS_encoder_0> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:170]
+ERROR: [VRFC 10-2063] Module <DVI_TMDS_encoder_0_1> not found while processing module instance <TMDS_encoder_1> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:176]
+ERROR: [VRFC 10-2063] Module <DVI_TMDS_encoder_0_0> not found while processing module instance <TMDS_encoder_2> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:182]
+ERROR: [VRFC 10-2063] Module <DVI_clk_wiz_0_5> not found while processing module instance <clk_10X_PLL> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:188]
+ERROR: [VRFC 10-2063] Module <DVI_load_shift_logic_0_1> not found while processing module instance <load_shift_logic_0> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:206]
+ERROR: [VRFC 10-2063] Module <DVI_processing_system7_0_0> not found while processing module instance <processing_system7_0> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:209]
+ERROR: [VRFC 10-2063] Module <DVI_serializer_0_0> not found while processing module instance <serializer_0> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:246]
+ERROR: [VRFC 10-2063] Module <DVI_serializer_1_0> not found while processing module instance <serializer_1> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:251]
+ERROR: [VRFC 10-2063] Module <DVI_serializer_2_0> not found while processing module instance <serializer_2> [C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/sim/DVI.v:256]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

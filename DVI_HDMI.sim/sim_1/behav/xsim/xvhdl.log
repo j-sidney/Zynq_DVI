@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/ip/DVI_util_ds_buf_0_0/util_ds_buf.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'util_ds_buf'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.ip_user_files/bd/DVI/ip/DVI_util_ds_buf_0_0/sim/DVI_util_ds_buf_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DVI_util_ds_buf_0_0'

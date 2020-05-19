@@ -1,0 +1,9 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+| clk_out3_DVI_clk_wiz_0_5 | clk_out3_DVI_clk_wiz_0_5 |DVI_i/AXI_DDR/axi_mem_intercon/s00_couplers/auto_pc/inst/gen_axi4_axi3.axi3_conv_inst/USE_READ.USE_SPLIT_R.read_addr_inst/cmd_depth_reg[5]/D|
+| clk_out3_DVI_clk_wiz_0_5 | clk_out3_DVI_clk_wiz_0_5 |DVI_i/AXI_DDR/axi_mem_intercon/s00_couplers/auto_pc/inst/gen_axi4_axi3.axi3_conv_inst/USE_READ.USE_SPLIT_R.read_addr_inst/cmd_depth_reg[4]/D|
+| clk_out3_DVI_clk_wiz_0_5 | clk_out3_DVI_clk_wiz_0_5 |DVI_i/AXI_DDR/axi_mem_intercon/s00_couplers/auto_pc/inst/gen_axi4_axi3.axi3_conv_inst/USE_READ.USE_SPLIT_R.read_addr_inst/USE_R_CHANNEL.cmd_queue/inst/fifo_gen_inst/inst_fifo_gen/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.gl0.rd/gr1.gr1_int.rfwft/empty_fwft_fb_o_i_reg/D|
+| clk_out3_DVI_clk_wiz_0_5 | clk_out3_DVI_clk_wiz_0_5 |DVI_i/AXI_DDR/axi_mem_intercon/s00_couplers/auto_pc/inst/gen_axi4_axi3.axi3_conv_inst/USE_READ.USE_SPLIT_R.read_addr_inst/cmd_depth_reg[2]/D|
+| clk_out3_DVI_clk_wiz_0_5 | clk_out3_DVI_clk_wiz_0_5 |DVI_i/AXI_DDR/axi_mem_intercon/s00_couplers/auto_pc/inst/gen_axi4_axi3.axi3_conv_inst/USE_READ.USE_SPLIT_R.read_addr_inst/cmd_depth_reg[3]/D|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+

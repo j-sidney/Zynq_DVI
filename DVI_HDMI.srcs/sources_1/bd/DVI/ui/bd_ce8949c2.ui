@@ -1,0 +1,35 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.0",
+   "Default View_TopLeft":"-265,-127",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port AXI_CLK -pg 1 -lvl 3 -x 660 -y 240 -defaultsOSRD
+preplace port PIX_CLK -pg 1 -lvl 3 -x 660 -y 90 -defaultsOSRD
+preplace port PIX_CLK_X5 -pg 1 -lvl 3 -x 660 -y 110 -defaultsOSRD
+preplace port LOCKED -pg 1 -lvl 3 -x 660 -y 130 -defaultsOSRD
+preplace port clock_rtl -pg 1 -lvl 0 -x -30 -y 90 -defaultsOSRD
+preplace port RES_SEL -pg 1 -lvl 0 -x -30 -y 180 -defaultsOSRD
+preplace portBus Line_Width -pg 1 -lvl 3 -x 660 -y 150 -defaultsOSRD
+preplace portBus H_TOTAL -pg 1 -lvl 3 -x 660 -y 170 -defaultsOSRD
+preplace portBus V_TOTAL -pg 1 -lvl 3 -x 660 -y 190 -defaultsOSRD
+preplace inst res_select_0 -pg 1 -lvl 2 -x 440 -y 120 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 90 -y 90 -defaultsOSRD
+preplace netloc res_select_0_PIX_CLK 1 2 1 640J 70n
+preplace netloc res_select_0_PIX_CLK_X5 1 2 1 630J 90n
+preplace netloc res_select_0_LOCKED 1 2 1 620J 110n
+preplace netloc res_select_0_Line_Width 1 2 1 610 130n
+preplace netloc res_select_0_H_TOTAL 1 2 1 600 150n
+preplace netloc res_select_0_V_TOTAL 1 2 1 590 170n
+preplace netloc clock_rtl_1 1 0 1 N 90
+preplace netloc clk_wiz_0_clk_out1 1 1 1 N 60
+preplace netloc clk_wiz_0_clk_out2 1 1 1 200 80n
+preplace netloc clk_wiz_0_clk_out3 1 1 2 190 240 NJ
+preplace netloc clk_wiz_0_locked 1 1 1 180 120n
+preplace netloc RES_SEL_1 1 0 2 NJ 180 NJ
+levelinfo -pg 1 -30 90 440 660
+pagesize -pg 1 -db -bbox -sgen -150 -160 820 260
+"
+}
+0

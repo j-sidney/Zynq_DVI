@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../DVI_HDMI.srcs/sources_1/bd/DVI/ipshared/4fba" \
+"DVI_wrapper_func_synth.v" \
+
+# Do not sort compile order
+nosort

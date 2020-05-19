@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../bd/DVI/ip/DVI_rst_PIX_CLK_PLL_250M_0/sim/DVI_rst_PIX_CLK_PLL_250M_0.vhd" \
+
+nosort

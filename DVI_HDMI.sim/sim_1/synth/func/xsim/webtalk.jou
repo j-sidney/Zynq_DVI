@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Fri Nov  8 15:36:16 2019
+# Process ID: 10368
+# Current directory: C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.sim/sim_1/synth/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.sim/sim_1/synth/func/xsim/xsim.dir/DVI_wrapper_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.sim/sim_1/synth/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.sim/sim_1/synth/func/xsim/xsim.dir/DVI_wrapper_func_synth/webtalk/xsim_webtalk.tcl -notrace

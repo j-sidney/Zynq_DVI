@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../DVI_HDMI.ip_user_files/bd/DVI/ip/DVI_util_ds_buf_0_0/util_ds_buf.vhd" \
+"../../../../DVI_HDMI.ip_user_files/bd/DVI/ip/DVI_util_ds_buf_0_0/sim/DVI_util_ds_buf_0_0.vhd" \
+
+# Do not sort compile order
+nosort

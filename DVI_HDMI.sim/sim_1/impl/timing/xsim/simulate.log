@@ -1,0 +1,4 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Warning on instance DVI_wrapper.DVI_i.processing_system7_0.inst.PS7_i : The Zynq-7000 All Programmable SoC does not have a simulation model. Behavioral simulation of Zynq-7000 (e.g. Zynq PS7 block) is not supported in any simulator. Please use the AXI BFM simulation model to verify the AXI transactions.
+Warning : input CLKIN1 period and attribute CLKIN1_PERIOD on PLLE2_ADV instance DVI_wrapper.DVI_i.CLK_CTRL.CLK_PLL0.inst.plle2_adv_inst are not same.

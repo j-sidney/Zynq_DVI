@@ -1,0 +1,52 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto fb7df1923c754016841501d9103c1a51 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot DVI_wrapper_func_synth xil_defaultlib.DVI_wrapper xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.x_lut1_mux2
+Compiling module unisims_ver.LUT1
+Compiling module xil_defaultlib.DVI_util_vector_logic_0_0
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=25.25...
+Compiling module xil_defaultlib.DVI_clk_wiz_0_4_DVI_clk_wiz_0_4_...
+Compiling module xil_defaultlib.DVI_clk_wiz_0_4
+Compiling module unisims_ver.LUT5
+Compiling module unisims_ver.x_lut3_mux8
+Compiling module unisims_ver.LUT3
+Compiling module unisims_ver.LUT6
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module unisims_ver.LUT4
+Compiling module unisims_ver.FDSE_default
+Compiling module unisims_ver.FDRE_default
+Compiling module xil_defaultlib.DVI_TMDS_encoder_1_0_TMDS_encode...
+Compiling module xil_defaultlib.DVI_TMDS_encoder_1_0
+Compiling module xil_defaultlib.DVI_TMDS_encoder_0_1_TMDS_encode...
+Compiling module xil_defaultlib.DVI_TMDS_encoder_0_1
+Compiling module xil_defaultlib.DVI_TMDS_encoder_0_0_TMDS_encode...
+Compiling module xil_defaultlib.DVI_TMDS_encoder_0_0
+Compiling module xil_defaultlib.DVI_combiner10_30_0_0
+Compiling module unisims_ver.GND
+Compiling module xil_defaultlib.DVI_xlconstant_0_0
+Compiling module unisims_ver.VCC
+Compiling module unisims_ver.CARRY4
+Compiling module xil_defaultlib.DVI_input_block_0_0_input_block
+Compiling module xil_defaultlib.DVI_input_block_0_0
+Compiling module unisims_ver.OSERDESE2(DATA_RATE_TQ="SDR",TRI...
+Compiling module unisims_ver.OBUFDS
+Compiling module unisims_ver.OSERDESE2(DATA_RATE_TQ="SDR",DAT...
+Compiling module unisims_ver.OSERDESE2(DATA_RATE_TQ="SDR",DAT...
+Compiling module xil_defaultlib.DVI_selectio_wiz_0_1_DVI_selecti...
+Compiling module xil_defaultlib.DVI_selectio_wiz_0_1
+Compiling module xil_defaultlib.DVI_xlconstant_0_1
+Compiling module xil_defaultlib.DVI
+Compiling module unisims_ver.OBUF
+Compiling module xil_defaultlib.DVI_wrapper
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot DVI_wrapper_func_synth

@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI.sim/sim_1/synth/func/xsim/DVI_wrapper_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DVI
+INFO: [VRFC 10-311] analyzing module DVI_TMDS_encoder_0_0
+INFO: [VRFC 10-311] analyzing module DVI_TMDS_encoder_0_0_TMDS_encoder
+INFO: [VRFC 10-311] analyzing module DVI_TMDS_encoder_0_1
+INFO: [VRFC 10-311] analyzing module DVI_TMDS_encoder_0_1_TMDS_encoder
+INFO: [VRFC 10-311] analyzing module DVI_TMDS_encoder_1_0
+INFO: [VRFC 10-311] analyzing module DVI_TMDS_encoder_1_0_TMDS_encoder
+INFO: [VRFC 10-311] analyzing module DVI_clk_wiz_0_4
+INFO: [VRFC 10-311] analyzing module DVI_clk_wiz_0_4_DVI_clk_wiz_0_4_clk_wiz
+INFO: [VRFC 10-311] analyzing module DVI_combiner10_30_0_0
+INFO: [VRFC 10-311] analyzing module DVI_input_block_0_0
+INFO: [VRFC 10-311] analyzing module DVI_input_block_0_0_input_block
+INFO: [VRFC 10-311] analyzing module DVI_selectio_wiz_0_1
+INFO: [VRFC 10-311] analyzing module DVI_selectio_wiz_0_1_DVI_selectio_wiz_0_1_selectio_wiz
+INFO: [VRFC 10-311] analyzing module DVI_util_vector_logic_0_0
+INFO: [VRFC 10-311] analyzing module DVI_wrapper
+INFO: [VRFC 10-311] analyzing module DVI_xlconstant_0_0
+INFO: [VRFC 10-311] analyzing module DVI_xlconstant_0_1
+INFO: [VRFC 10-311] analyzing module glbl

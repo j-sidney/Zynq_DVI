@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2700185 on Thu Oct 24 18:46:05 MDT 2019
+# IP Build 2699827 on Thu Oct 24 21:16:38 MDT 2019
+# Start of session at: Tue Jan 14 12:21:31 2020
+# Process ID: 14048
+# Current directory: C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI/DVI_HDMI.runs/DVI_line_addr_gen_0_0_synth_1
+# Command line: vivado.exe -log DVI_line_addr_gen_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DVI_line_addr_gen_0_0.tcl
+# Log file: C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI/DVI_HDMI.runs/DVI_line_addr_gen_0_0_synth_1/DVI_line_addr_gen_0_0.vds
+# Journal file: C:/Users/SIDNEY/Documents/Xilinx/DVI_HDMI/DVI_HDMI/DVI_HDMI.runs/DVI_line_addr_gen_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source DVI_line_addr_gen_0_0.tcl -notrace

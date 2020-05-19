@@ -1,0 +1,35 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.973747",
+   "Default View_TopLeft":"-168,-124",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.21  2019-05-29 bk=1.5064 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port M00_AXI -pg 1 -lvl 4 -x 990 -y 160 -defaultsOSRD
+preplace port frame_reset -pg 1 -lvl 0 -x -30 -y 180 -defaultsOSRD
+preplace port M_AXI_ARESETN -pg 1 -lvl 0 -x -30 -y 240 -defaultsOSRD
+preplace port ACLK -pg 1 -lvl 0 -x -30 -y 100 -defaultsOSRD
+preplace port rdata_valid -pg 1 -lvl 4 -x 990 -y 40 -defaultsOSRD
+preplace port read_pulse -pg 1 -lvl 0 -x -30 -y 120 -defaultsOSRD
+preplace port SEL -pg 1 -lvl 0 -x -30 -y 70 -defaultsOSRD
+preplace portBus rdata -pg 1 -lvl 4 -x 990 -y 20 -defaultsOSRD
+preplace portBus Line_Width -pg 1 -lvl 0 -x -30 -y 160 -defaultsOSRD
+preplace inst axi_mem_intercon -pg 1 -lvl 3 -x 820 -y 160 -defaultsOSRD
+preplace inst line_addr_gen_0 -pg 1 -lvl 1 -x 160 -y 170 -defaultsOSRD
+preplace inst M_AXI_Lite_READ_0 -pg 1 -lvl 2 -x 490 -y 120 -defaultsOSRD
+preplace netloc line_addr_gen_0_line_addr 1 1 1 330 160n
+preplace netloc PL_HDMI_frame_reset 1 0 1 0J 170n
+preplace netloc ACLK_1 1 0 3 -10J 90 320 20 640
+preplace netloc M_AXI_Lite_READ_0_rdata 1 2 2 650J 20 NJ
+preplace netloc M_AXI_Lite_READ_0_rdata_valid 1 2 2 660J 40 NJ
+preplace netloc read_pulse_1 1 0 2 0 80 310J
+preplace netloc res_select_0_LOCKED 1 0 3 -10J 250 310 220 670
+preplace netloc Line_Width_1 1 0 1 -10 160n
+preplace netloc RES_SEL_1 1 0 2 NJ 70 330J
+preplace netloc axi_mem_intercon_M00_AXI 1 3 1 NJ 160
+preplace netloc M_AXI_Lite_READ_0_M_AXI 1 2 1 N 100
+levelinfo -pg 1 -30 160 490 820 990
+pagesize -pg 1 -db -bbox -sgen -200 0 1110 280
+"
+}
+0

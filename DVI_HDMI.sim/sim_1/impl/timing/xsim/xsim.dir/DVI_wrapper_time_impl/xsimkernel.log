@@ -1,0 +1,7 @@
+Running: xsim.dir/DVI_wrapper_time_impl/xsimk.exe -simmode gui -wdb DVI_wrapper_time_impl.wdb -simrunnum 0 -socket 51854
+Design successfully loaded
+Design Loading Memory Usage: 30072 KB (Peak: 30072 KB)
+Design Loading CPU Usage: 78 ms
+Simulation completed
+Simulation Memory Usage: 49520 KB (Peak: 49520 KB)
+Simulation CPU Usage: 157624 ms
